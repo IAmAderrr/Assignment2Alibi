@@ -31,3 +31,6 @@ To compile and run
 2. Navigate to src folder  
 3. Compile all Java files writing in cmd "javac *.java"
 4. Run the program with "java Main"
+
+D. Output of the program
+![Output](docs/screenshots/output.jpg)
