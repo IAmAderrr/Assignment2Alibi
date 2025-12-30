@@ -34,3 +34,8 @@ To compile and run
 
 D. Output of the program
 ![Output](docs/screenshots/Output.jpg)
+
+E. Reflection
+Inheritance made coding subclasses easier, because of the shared properties and methods like brand, year and displayInfo() are in one superclass. So that I can repeatition, as the subclasses already inherit these. <br>
+Method overriding helped customize the behavior of startEngine() and stopEngine() for each vehicle type while still allowing to handle all vehicles using a Vehicle reference. <br>
+Using protected fields allowed subclasses to access them, but other classes cannot. Protected is better and safer for inheritance, compared to other methods
