@@ -33,4 +33,4 @@ To compile and run
 4. Run the program with "java Main"
 
 D. Output of the program
-![Output](docs/screenshots/output.jpg)
+![Output](docs/screenshots/Output.jpg)
